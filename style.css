@@ -1,0 +1,21 @@
+* {
+    margin: auto;
+}
+#foto_guilherme {
+    width: 200px;
+    margin: 20px;
+}
+body {
+    background: #708090;
+}
+p {
+    margin: 5px;;
+}
+h1, h3 {
+    margin: 5px;
+    color: #13293d;
+}
+.list-style {
+    text-decoration: underline;
+    color: #35122e;
+}
