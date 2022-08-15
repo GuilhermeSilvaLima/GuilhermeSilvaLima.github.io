@@ -15,7 +15,9 @@ h1, h3 {
     margin: 5px;
     color: #13293d;
 }
-.list-style {
+.list-style :hover {
     text-decoration: underline;
     color: #35122e;
+    background-color: gray;
+
 }
